@@ -51,7 +51,7 @@ color: #222;
 <section class="gallery">
 <img [Uploading イラスト22.png…]()
 ="portfolio1.jpg" alt="イラスト作品">
-<img <img width="3024" height="4032" alt="43" src="https://github.com/user-attachments/assets/c0e03bf5-5936-4608-8afa-ee3b517f245c" />
+<img ![Uploading イラスト5.png…]()
 ="portfolio2.jpg" alt="デッサン作品1">
 </section>
 
