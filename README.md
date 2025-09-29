@@ -51,7 +51,7 @@ color: #222;
 <section class="gallery">
 <img [Uploading イラスト22.png…]()
 ="portfolio1.jpg" alt="イラスト作品">
-<img ![Uploading イラスト5.png…]()
+<img [Uploading イラスト5.png…]()
 ="portfolio2.jpg" alt="デッサン作品1">
 </section>
 
