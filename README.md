@@ -1,4 +1,5 @@
-# Portfolio```html name=index.html
+<img width="4861" height="6028" alt="イラスト22" src="https://github.com/user-attachments/assets/166c087b-9962-4793-a024-4b566c7ec46e" /># Portfolio
+```html name=index.html
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -48,10 +49,10 @@ color: #222;
 </header>
 
 <section class="gallery">
-<img src="portfolio1.jpg" alt="イラスト作品">
-<img src="portfolio2.jpg" alt="デッサン作品1">
-<img src="portfolio3.jpg" alt="デッサン作品2">
-<img src="portfolio4.jpg" alt="デッサン作品3">
+<img [Uploading イラスト22.png…]()
+="portfolio1.jpg" alt="イラスト作品">
+<img <img width="3024" height="4032" alt="43" src="https://github.com/user-attachments/assets/c0e03bf5-5936-4608-8afa-ee3b517f245c" />
+="portfolio2.jpg" alt="デッサン作品1">
 </section>
 
 <footer>
