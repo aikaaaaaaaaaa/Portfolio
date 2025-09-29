@@ -49,10 +49,23 @@ color: #222;
 </header>
 
 <section class="gallery">
-<img [Uploading イラスト22.png…]()
-="portfolio1.jpg" alt="イラスト作品">
-<img [Uploading イラスト5.png…]()
-="portfolio2.jpg" alt="デッサン作品1">
+<img src="<img width="7280" height="10300" alt="イラスト5" src="https://github.com/user-attachments/assets/e5ff2258-512e-411f-b012-9651e34c6996" />
+ alt="イラスト作品">
+<img src="![イラスト2](https://github.com/user-attachments/assets/ab8ce5e1-6833-4e37-b73b-b1e09a75255a)"
+ alt="デッサン作品1">
+ alt="イラスト作品">
+<img src="images/illustration5.png" alt="デッサン作品1">
+
+
+.gallery img {<img width="7280" height="10300" alt="イラスト5" src="https://github.com/user-attachments/assets/d98f52ab-f7ec-4316-80b2-9abea0ac7076" />
+
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.gallery img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
+
 </section>
 
 <footer>
